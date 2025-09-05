@@ -1,6 +1,8 @@
 # Color Blender
 
-A simple React project that lets you blend and visualize RGB colors dynamically. Generate random color palettes, blend colors smoothly on a canvas, and experiment with color mixing in real time.
+A simple React project that lets you blend and visualize RGB colors dynamically. Generate random color palettes, blend colors smoothly on a canvas, and experiment with color mixing in real time. 
+
+[Live site](https://fultong.github.io/color-blender/)
 
 ---
 
