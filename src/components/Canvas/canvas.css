@@ -1,0 +1,29 @@
+.canvas-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem; /* spacing between canvas and label */
+  padding: 2rem;
+  font-family: system-ui, sans-serif;
+}
+
+.canvas {
+  background-color: rgb(var(--bg-color));
+  color: white;
+  padding: 1rem;
+  border-radius: 12px;
+  border: 2px solid #000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  height: 200px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.canvas-area div:last-child {
+  font-size: 2rem;
+}
