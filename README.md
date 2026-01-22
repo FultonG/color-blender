@@ -92,6 +92,6 @@ Feel free to open issues or pull requests for new features or bug fixes!
 
 ## Contact
 
-Fulton Garcia – [fultongarica@gmail.com](mailto:fultongarcia@gmail.com)
+Fulton Garcia – [fultongarcia@gmail.com](mailto:fultongarcia@gmail.com)
 
 Project Link: [https://github.com/FultonG/color-blender](https://github.com/FultonG/color-blender)
